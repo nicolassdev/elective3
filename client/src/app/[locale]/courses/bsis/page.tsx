@@ -3,6 +3,7 @@ export default function contact(){
     <div>
       <h1>Compute Systems Institute </h1>
       <b>Bachelor of Science in Information System</b>
+
     </div>
 
   )
