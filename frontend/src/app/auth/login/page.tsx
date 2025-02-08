@@ -3,7 +3,7 @@ export default function Login() {
     <div className="h-screen bg-gradient-to-r from-purple-400 via-teal-500 to-teal-400 flex justify-center items-center">
       <div className="bg-white p-8 rounded-lg shadow-lg md:w-1/3 w-full max-w-md">
         <div className="text-center mb-6">
-          <h2 className="text-4xl font-semibold text-teal-700">
+          <h2 className="text-3xl font-semibold text-teal-700">
             Employee Profiling System
           </h2>
           <p className="text-sm text-gray-600">Login to access your account</p>
